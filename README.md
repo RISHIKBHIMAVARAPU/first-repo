@@ -1,2 +1,2 @@
 # first-repo
-my first github experience
+my first github experience and my first repo 
